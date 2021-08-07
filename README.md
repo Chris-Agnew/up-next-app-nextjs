@@ -24,10 +24,3 @@ yarn dev
 * Twitter: [@ChrisAgnewDev](https://twitter.com/ChrisAgnewDev)
 * Github: [@Chris-Agnew](https://github.com/Chris-Agnew)
 * LinkedIn: [@chris-agnew12](https://linkedin.com/in/chris-agnew12)
-
-## Show your support
-
-Give a ⭐️ if this project helped you!
-
-***
-_This README was generated with ❤️ by [readme-md-generator](https://github.com/kefranabg/readme-md-generator)_
