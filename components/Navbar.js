@@ -1,8 +1,6 @@
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome'
-import { faFireAlt } from '@fortawesome/free-solid-svg-icons'
-import { faTicketAlt } from '@fortawesome/free-solid-svg-icons'
-import { faUserAlt } from '@fortawesome/free-solid-svg-icons'
-import { faTv } from '@fortawesome/free-solid-svg-icons'
+import { faFireAlt ,faTicketAlt , faTv , faUserAlt } from '@fortawesome/free-solid-svg-icons'
+
 const Navbar = () => {
 	return (
 		<nav>
@@ -21,7 +19,7 @@ const Navbar = () => {
 							<FontAwesomeIcon  icon={faTv}/> Coming Soon
 						</li>
 						<li className="px-2 hover:animate-bounce hover:text-blue-500">
-						<FontAwesomeIcon  icon={faUserAlt}/>	Account
+						<FontAwesomeIcon  icon={faUserAlt} size="xs"/>	Account
 						</li>
 					</ul>
 					
